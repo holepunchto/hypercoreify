@@ -1,0 +1,6 @@
+node_modules
+corestore
+sandbox.js
+sandbox
+coverage
+package-lock.json

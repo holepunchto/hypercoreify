@@ -1,0 +1,25 @@
+{
+  "name": "hypercoreify",
+  "version": "0.0.0",
+  "description": "Turn static blocks into a static hypercore",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "hypercore-crypto": "^3.5.0"
+  },
+  "devDependencies": {
+    "corestore": "^7.0.5"
+  }
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/holepunchto/hypercoreify.git"
+  },
+  "author": "Holepunch Inc.",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/holepunchto/hypercoreify/issues"
+  },
+  "homepage": "https://github.com/holepunchto/hypercoreify"
+}
