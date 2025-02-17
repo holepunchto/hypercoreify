@@ -1,6 +1,6 @@
 {
   "name": "hypercoreify",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Turn static blocks into a static hypercore",
   "main": "index.js",
   "files": [
